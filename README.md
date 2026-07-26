@@ -1,26 +1,44 @@
-# Proyectos Web - Juan Manuel Ortega
+# 👋 Hola, soy Juan Manuel Ortega Mendoza
 
-Repositorio con proyectos desarrollados durante mi aprendizaje de desarrollo web Frontend.
+Estudiante de **Ingeniería de Sistemas** y desarrollador Frontend en formación.
 
-## Proyectos
+Actualmente estoy fortaleciendo mis habilidades en **JavaScript**, HTML y CSS mediante proyectos prácticos y, próximamente, React.
 
-### 🥗 Calorie Counter
-App web para rastrear calorías diarias por comida y ejercicio.
-- Calcula calorías consumidas vs presupuesto diario
-- Detecta surplus o deficit calórico
-- Permite agregar entradas dinámicamente
+## 🚀 Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📂 Proyectos
+
+### 🧮 Calorie Counter
+Aplicación para calcular calorías consumidas y restantes utilizando manipulación del DOM y JavaScript.
 
 ### 🎵 Music Player
-Reproductor de música con lista de canciones interactiva.
-- Controles de play, pause, siguiente y anterior
-- Resalta la canción actual
-- Pasa automáticamente a la siguiente canción al terminar
+Reproductor de música desarrollado con JavaScript, manejo de eventos y actualización dinámica de la interfaz.
 
-## Tecnologías
-- HTML
-- CSS
-- JavaScript
+### ✅ Todo App
+Aplicación de tareas con almacenamiento en **LocalStorage**, que permite crear, editar y eliminar tareas.
 
-## Sobre mí
-Estudiante de Ingeniería de Sistemas en la Universidad de la Costa (CUC).
-Aprendiendo desarrollo Frontend con el objetivo de trabajar como Junior Frontend Developer.
+### 🛒 Shopping Cart
+Carrito de compras interactivo desarrollado con JavaScript orientado a objetos (OOP). Incluye:
+
+- Agregar productos
+- Contador de artículos
+- Cálculo de subtotal
+- Cálculo automático de impuestos
+- Total de la compra
+- Vaciar carrito
+- Manipulación dinámica del DOM
+
+## 🎯 Objetivo
+
+Mi objetivo es convertirme en **Frontend Developer**, seguir aprendiendo React y construir aplicaciones web modernas.
+
+## 📫 Contacto
+
+- GitHub: https://github.com/juanmanuelom1908-hue
