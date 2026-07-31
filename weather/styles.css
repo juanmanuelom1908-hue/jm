@@ -1,0 +1,48 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightcyan
+}
+
+#weather-container {
+  height: 75vh;
+}
+
+#options-container {
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#weather-container, #options-container{
+  width: 90vw;
+  margin: 5vh auto;
+  background-color: white;
+  border: 3px solid #00aaaa;
+  border-radius: 20px;
+}
+
+#cities {
+  width: 50%;
+}
+
+#get-weather-btn {
+  background-color: #00aaaa;
+  color: white;
+  border: none;
+  font-style: verdanna;
+  border-radius: 20px;
+}
+
+#get-weather-btn:hover {
+  cursor: pointer;
+}
+
+#cities, #get-weather-btn {
+  height: 80%;
+  font-size: 1.2rem;
+}
